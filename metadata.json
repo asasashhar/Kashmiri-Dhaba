@@ -1,0 +1,7 @@
+{
+  "name": "Kashmira Dhaba - Mumbai-Nashik Highway Sanctuary",
+  "description": "Legendary late-night highway dining haven on NH-3 Mumbai-Nashik Expressway at Bhinar. Serving charcoal-flamed Mughlai kebabs, slow-simmered earthen handis, and starry gazebo hospitality till 4:00 AM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
